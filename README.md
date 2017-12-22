@@ -53,5 +53,5 @@ Log Analysis Project
  *  RUN `python log_analysis.py`
  
  ## Result of Analysis
- *   Result is in the output.txt file.
+ *   Result is in the 'output.txt' file.
 
